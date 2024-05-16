@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://gitlsatplay.com/sitemap.xml
