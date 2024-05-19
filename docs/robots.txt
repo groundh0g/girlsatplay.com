@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://gitlsatplay.com/sitemap.xml
+Sitemap: https://girlsatplay.com/sitemap.xml
